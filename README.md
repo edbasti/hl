@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### To Start the backend server
+`**json-server --watch db.json --port 3000**`
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
