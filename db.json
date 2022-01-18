@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "title": "REACT",
+      "author": "facebook",
+      "category": "1",
+      "id": 2
+    },
+    {
+      "title": "BOOTSTRAPs",
+      "author": "css master",
+      "category": 3,
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Category 1"
+    },
+    {
+      "id": 2,
+      "title": "Category 2"
+    },
+    {
+      "id": 3,
+      "title": "Category 3"
+    }
+  ]
+}
